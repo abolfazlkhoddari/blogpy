@@ -1,2 +1,12 @@
 #virtualenv
 venv/
+
+
+#databace
+db.sqlite3
+
+
+
+#migrations
+blogapp/migrations
+
